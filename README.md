@@ -1,7 +1,7 @@
 
 ESP32 easy handling of timezone/daylight savings
 
-All [tz](https://github.com/jgvmonteiro/ESPTime/blob/master/src/Tz.h) taken from https://github.com/nayarsystems/posix_tz_db/blob/master/zones.json.
+[Tz.h](https://github.com/jgvmonteiro/ESPTime/blob/master/src/Tz.h) taken from https://github.com/nayarsystems/posix_tz_db/blob/master/zones.json.
 
     	
      	 
